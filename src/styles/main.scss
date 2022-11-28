@@ -1,0 +1,11 @@
+@import "base.scss";
+
+body {
+    font-family: "Quicksand", sans-serif;
+}
+.wrapper {
+    width: 20%;
+    font-size: 1.25rem;
+    color: $black-color;
+    background-color: $light-pinky;
+}
